@@ -1,0 +1,5 @@
+names:
+- face
+nc: 1
+train: kface1-1/train/images
+val: kface1-1/valid/images

@@ -1,0 +1,5 @@
+names:
+- face
+nc: 1
+train: Finish_Final_Allready_Gameover_Finally_Fin_Win_Stop_End-1/train/images
+val: Finish_Final_Allready_Gameover_Finally_Fin_Win_Stop_End-1/valid/images

@@ -1,0 +1,5 @@
+names:
+- cigarette
+nc: 1
+train: Cigarettes-Detection-13/train/images
+val: Cigarettes-Detection-13/valid/images

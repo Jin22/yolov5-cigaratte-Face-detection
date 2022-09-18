@@ -1,0 +1,7 @@
+names:
+- NotWearingMask
+- WearingMask
+- donnot masked
+nc: 3
+train: MaskDataset-7/train/images
+val: MaskDataset-7/valid/images

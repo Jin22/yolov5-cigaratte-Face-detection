@@ -1,0 +1,9 @@
+names:
+- '0'
+- FMFS
+- FMO
+- FSO
+- NFMFS
+nc: 5
+train: face-2/train/images
+val: face-2/valid/images

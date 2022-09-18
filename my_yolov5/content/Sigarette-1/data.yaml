@@ -1,0 +1,5 @@
+names:
+- Siragette
+nc: 1
+train: Sigarette-1/train/images
+val: Sigarette-1/valid/images

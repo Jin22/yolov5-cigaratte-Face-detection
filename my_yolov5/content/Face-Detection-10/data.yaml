@@ -1,0 +1,5 @@
+names:
+- face
+nc: 1
+train: Face-Detection-10/train/images
+val: Face-Detection-10/valid/images

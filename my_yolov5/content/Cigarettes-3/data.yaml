@@ -1,0 +1,5 @@
+names:
+- cigarettes
+nc: 1
+train: Cigarettes-3/train/images
+val: Cigarettes-3/valid/images

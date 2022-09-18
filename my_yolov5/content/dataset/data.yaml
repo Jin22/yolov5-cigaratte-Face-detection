@@ -1,0 +1,6 @@
+names:
+- cigarette
+- Face
+nc: 2
+train: /home/cfds031/content/dataset/train_img.txt
+val: /home/cfds031/content/dataset/val_img.txt

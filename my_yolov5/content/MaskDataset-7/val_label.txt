@@ -1,0 +1,6 @@
+/home/cfds031/content/MaskDataset-7/valid/labels/----3-_jpg.rf.daa613fd3eeda66edfa710d90f340ba6.txt
+/home/cfds031/content/MaskDataset-7/valid/labels/----1-_jpg.rf.6f823969ea0bb5a4c5b2c322aa979cbf.txt
+/home/cfds031/content/MaskDataset-7/valid/labels/0_0_---2020-02-24-225329_png.rf.e8e7b60d37726c80497c22621cbb5e80.txt
+/home/cfds031/content/MaskDataset-7/valid/labels/0_0_0_jpg.rf.10f7504aef09b0ef43be598926c28538.txt
+/home/cfds031/content/MaskDataset-7/valid/labels/OIP-C--12-_jpg.rf.2a61463dcff7c3692f1d87d81ec8d7b2.txt
+/home/cfds031/content/MaskDataset-7/valid/labels/OIP-C--8-_jpg.rf.8f858879b2d5352d853a9766ad44c68c.txt

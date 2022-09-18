@@ -1,0 +1,6 @@
+names:
+- Elderly
+- Non-Elderly
+nc: 2
+train: elderly-face-detection2-10/train/images
+val: elderly-face-detection2-10/valid/images
